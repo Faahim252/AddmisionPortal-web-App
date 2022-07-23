@@ -25,3 +25,30 @@ D:\WORKING_AREA\UniversityAdmisionApplcation\UniversityAdmisionApplcation\obj\De
 D:\WORKING_AREA\UniversityAdmisionApplcation\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.genruntimeconfig.cache
 D:\WORKING_AREA\UniversityAdmisionApplcation\UniversityAdmisionApplcation\obj\Debug\net6.0\ref\UniversityAdmisionApplcation.dll
 D:\WORKING_AREA\UniversityAdmisionApplcation\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.Development.json
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.json
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.staticwebassets.runtime.json
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.exe
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.deps.json
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.runtimeconfig.json
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.pdb
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.AssemblyReference.cache
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfoInputs.cache
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfo.cs
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CoreCompileInputs.cache
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.MvcApplicationPartsAssemblyInfo.cache
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cache
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cs
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.build.json
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.development.json
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\bundle\UniversityAdmisionApplcation.styles.css
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\projectbundle\UniversityAdmisionApplcation.bundle.scp.css
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\refint\UniversityAdmisionApplcation.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.pdb
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.genruntimeconfig.cache
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\ref\UniversityAdmisionApplcation.dll

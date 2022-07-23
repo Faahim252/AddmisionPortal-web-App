@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WORKING_AREA\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj": {}
+    "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj": {}
   },
   "projects": {
-    "D:\\WORKING_AREA\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj": {
+    "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WORKING_AREA\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj",
+        "projectUniqueName": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj",
         "projectName": "UniversityAdmisionApplcation",
-        "projectPath": "D:\\WORKING_AREA\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\WORKING_AREA\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation\\obj\\",
+        "projectPath": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj",
+        "packagesPath": "C:\\Users\\Ibra\\.nuget\\packages\\",
+        "outputPath": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Ibra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
