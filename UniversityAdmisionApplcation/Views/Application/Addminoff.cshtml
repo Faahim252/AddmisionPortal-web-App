@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+    <div class=" "
+    <h4>AddmissionOfficers</h4>
+    <hr/>
+    <table class="table table-bordered background-color: white">
+  <thead>
+    <tr>
+            <th scope="col">ID</th>
+            <th scope="col">OfficerName</th>
+            <th scope="col">UserName</th>
+            <th scope="col">Password</th>
+            <th scope="col">Title</th>
+            <td scope="col">Delelte</td>
+            td scope="col">update</td>
+        </tr>
+      
+  </thead>
+  <tbody>
+            @foreach (AdmissionOfficer AdmissionOfficer in Model)
+        {
+            <tr>
+                <td>@AdmissionOfficer.ID</td>
+                <td>@AdmissionOfficer.OfficerName</td>
+                <td>@AdmissionOfficer.UserName</td>
+                <td>@AdmissionOfficer.Password</td>
+                 <td>@AdmissionOfficer.Title</td>
+                 
+                    <td align="center">
+                    <a href="@Url.Action("Delete", "Application", new { id = @AdmissionOfficer.ID })">Delete</a>
+                </td>
+                
+                 <td>
+                     <button type="button" class="btn btn-success">Update</button>
+                 </td>
+          
+            </tr>
+        }
+
+
+      
+    
+  </tbody>
+</table>
+   
+ 

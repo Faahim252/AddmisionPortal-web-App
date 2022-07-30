@@ -10,135 +10,154 @@
 
 
 <div class="container text-white">
+    @if (TempData["ErrorMasegge"] !=null)
+    {
+        @if (TempData["ErrorMasegge"] == "Success")
+    {
+        <div class="alert alert-dismissible alert-success">
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        <strong>Mahadsanid!</strong> your data was saved! .
+        </div>
+    }
+    @if (TempData["ErrorMasegge"] == "error")
+    {
+        <div class="alert alert-dismissible alert-warning">
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        <h4 class="alert-heading">Diniin!</h4>
+        <p class="mb-0">data was not saved!.</p>
+        </div>
+    }
+    }
+@*    else
+    {
+        <div class="alert alert-dismissible alert-warning">
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        <h4 class="alert-heading">Diniin!</h4>
+        <p class="mb-0"> Fadlan Melaha banan Buuxi.</p>
+        </div>
+    }
+*@    
+
+    <form asp-controller="Registration" asp-action="Register" method="post">
 
 
 <div  class="row">
 
-  <div class="col-6">
+  <div class="col-lg-6 col-md-6 col-sm-12">
 <div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">First Name</label>
-  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Abdirahman">
+  <label for="FirstName" class="form-label">First Name</label>
+  <input type="text" name="FirstName" class="form-control" id="FirstName" placeholder="Abdirahmaan">
 </div>
 
     </div>
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12">
             <div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">Last Name</label>
-  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Mohamud">
+  <label for="LastName"  class="form-label">Last Name</label>
+  <input type="text" name="LastName" class="form-control" id="LastName" placeholder="SayidAli">
 </div>
     </div>
 
-     <div class="col-6">
+     <div class="col-lg-6 col-md-6 col-sm-12">
 <div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">Date of birth</label>
-  <input type="date" class="form-control" id="exampleFormControlInput1">
+  <label for="DateOfBirth" class="form-label">Date of birth</label>
+  <input type="date" name="DateOfBirth" class="form-control" id="DateOfBirth">
 </div>
 
     </div>
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12">
             <div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">Email</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="example@gmal.com">
+  <label for="Email" class="form-label">Email</label>
+  <input type="email" name="Email" class="form-control" id="Email" placeholder="example@gmal.com">
 </div>
     </div>
 
 
-         <div class="col-6">
+         <div class="col-lg-6 col-md-6 col-sm-12">
 <div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">Username</label>
-  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Username">
+  <label for="UserName" class="form-label">Username</label>
+  <input type="text" name="UserName" class="form-control" id="UserName" placeholder="Username">
 </div>
 
     </div>
 
-   <div class="col-6">
-            <div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">Password</label>
-  <input type="password" class="form-control" id="exampleFormControlInput1" placeholder="*******************">
-</div>
+   <div class="col-lg-6 col-md-6 col-sm-12">
+    <div class="mb-3">
+       <label for="Password" class="form-label">Password</label>
+       <input type="password" name="Password" class="form-control" id="Password" placeholder="**********">
+   </div>
+   </div>
+
+
+     <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="mb-3">
+            <label for="Address" class="form-label">Address</label>
+            <input type="text" name="Address" class="form-control" id="Address" placeholder="Afgoye,lowerShabele,Somaalia">
+        </div>
     </div>
 
-
-                     <div class="col-6">
-<div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">Address</label>
-  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Howlwadaag,Bakaaro,Hormuud Tower">
-</div>
-
+   <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="mb-3">
+            <label for="MobileNo" class="form-label">Mobile Number</label>
+            <input type="text" name="MobileNo" class="form-control" id="MobileNo" placeholder="+25261xxxxxxx">
+        </div>
     </div>
 
-   <div class="col-6">
-  <div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">Mobile Number</label>
-  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="61xxxxxxx">
-</div>
+    <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="mb-3">
+            <label for="File" class="form-label">File</label>
+            <input type="file" name="File" class="form-control" id="File">
+        </div>
     </div>
 
-             <div class="col-6">
-<div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">File</label>
-  <input type="file" class="form-control" id="exampleFormControlInput1">
-</div>
-
-    </div>
-
-   <div class="col-6">
-       <div class="mt-4">
+   <div class="col-lg-6 col-md-6 col-sm-12">
+       <div class="">
+           <label for="exampleFormControlInput1" class="form-label">Gender</label>
        <div class="row">
-           <div class="col-6">
-                    <div class="form-check">
-  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-  <label class="form-check-label" for="flexRadioDefault1">
-    Female
-  </label>
-</div>
-           </div>
-
-           <div class="col-6">
-       <div class="form-check">
-  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
-  <label class="form-check-label" for="flexRadioDefault2">
-    Male
-  </label>
-</div>
-           </div>
-       </div>
-       </div>
-
-
-
-    </div>
-
-
-
-    <div class="col-6">
-        <label for="exampleFormControlInput1" class="form-label">Faculty</label>
-   <select class="form-select" aria-label="Default select example">
-  <option selected>Select</option>
-  <option value="1">Faculty of Science </option>
-  <option value="2">Faculty of Arts and Social Studies</option>
-  <option value="3">Faculty of Engineering</option>
-</select>
-
-
-    </div>
-
        <div class="col-6">
-           <label for="exampleFormControlInput1" class="form-label">Education Level</label>
-   <select class="form-select" aria-label="Default select example">
-  <option selected>Select</option>
-  <option value="1">Bachelor Degree</option>
-  <option value="2">Masters Degree</option>
-  <option value="3">Phd</option>
-</select>
+       <div class="form-check">
+            <input class="form-check-input" type="radio" name="Gender" id="FemaleRatio" value="Female">
+            <label class="form-check-label" for="FemaleRatio">
+            Female
+            </label>
+       </div>
+       </div>
+       <div class="col-6">
+       <div class="form-check">
+           <input class="form-check-input" type="radio" name="Gender" id="MaleRatio" value="Male" checked>
+           <label class="form-check-label" for="MaleRatio">
+           Male
+           </label>
+       </div>
+       </div>
+       </div>
+       </div>
+   </div>
 
 
+    <div class="col-lg-6 col-md-6 col-sm-12">
+        <label for="exampleFormControlInput1" class="form-label">Faculty</label>
+        <select class="form-select" name="FacultyID" aria-label="Default select example">
+        @foreach (var faculty in ViewBag.Faculties)
+                    {
+                     <option value="@faculty.FacultyID">@faculty.FacultyName</option>   
+                    }
+        </select>
+    </div>
+
+     <div class="col-lg-6 col-md-6 col-sm-12">
+        <label for="exampleFormControlInput1" class="form-label">Education Level</label>
+        <select class="form-select" name="EducationID" aria-label="Default select example">
+        @foreach (var eduvation in ViewBag.EducationLevels)
+                    {
+                     <option value="@eduvation.EducationID">@eduvation.EducationLevelName</option>   
+                    }
+        </select>
     </div>
 
     <div class="mt-5">
-        <button type="button" class="btn btn-primary">Success</button>
+        <button type="submit" class="btn btn-primary">Success</button>
     </div>
 
 
@@ -146,8 +165,5 @@
 </div>
 
 
-
-
-
-
+    </form>
 </div>

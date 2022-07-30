@@ -52,3 +52,290 @@ E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\
 E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.pdb
 E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.genruntimeconfig.cache
 E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\ref\UniversityAdmisionApplcation.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CopyComplete
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Humanizer.dll
+E:\Muumin\new Internship\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.AssemblyReference.cache
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfoInputs.cache
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfo.cs
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CoreCompileInputs.cache
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cache
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cs
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\refint\UniversityAdmisionApplcation.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.pdb
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.json
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.staticwebassets.runtime.json
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.exe
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.deps.json
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.runtimeconfig.json
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.pdb
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\bundle\UniversityAdmisionApplcation.styles.css
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\projectbundle\UniversityAdmisionApplcation.bundle.scp.css
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CopyComplete
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.genruntimeconfig.cache
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\ref\UniversityAdmisionApplcation.dll
+C:\Users\Abdullahi\Desktop\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.Development.json
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.json
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.staticwebassets.runtime.json
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.exe
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.deps.json
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.runtimeconfig.json
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.pdb
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Humanizer.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.AssemblyReference.cache
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.GeneratedMSBuildEditorConfig.editorconfig
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfoInputs.cache
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfo.cs
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CoreCompileInputs.cache
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.MvcApplicationPartsAssemblyInfo.cache
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cache
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cs
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.build.json
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.development.json
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\bundle\UniversityAdmisionApplcation.styles.css
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\projectbundle\UniversityAdmisionApplcation.bundle.scp.css
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CopyComplete
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\refint\UniversityAdmisionApplcation.dll
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.pdb
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.genruntimeconfig.cache
+E:\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\ref\UniversityAdmisionApplcation.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.json
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.staticwebassets.runtime.json
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.exe
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.deps.json
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.runtimeconfig.json
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.pdb
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.AssemblyReference.cache
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfoInputs.cache
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfo.cs
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CoreCompileInputs.cache
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cache
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cs
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\bundle\UniversityAdmisionApplcation.styles.css
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\projectbundle\UniversityAdmisionApplcation.bundle.scp.css
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CopyComplete
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\refint\UniversityAdmisionApplcation.dll
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.pdb
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.genruntimeconfig.cache
+C:\Users\axmed\OneDrive\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\ref\UniversityAdmisionApplcation.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\appsettings.json
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.staticwebassets.runtime.json
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.exe
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.deps.json
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.runtimeconfig.json
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\UniversityAdmisionApplcation.pdb
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.AssemblyReference.cache
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfoInputs.cache
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.AssemblyInfo.cs
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CoreCompileInputs.cache
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cache
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.RazorAssemblyInfo.cs
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\bundle\UniversityAdmisionApplcation.styles.css
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\scopedcss\projectbundle\UniversityAdmisionApplcation.bundle.scp.css
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.csproj.CopyComplete
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\refint\UniversityAdmisionApplcation.dll
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.pdb
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\UniversityAdmisionApplcation.genruntimeconfig.cache
+C:\Users\Abdullahi\Desktop\gooni\AddmisionPortal\UniversityAdmisionApplcation\obj\Debug\net6.0\ref\UniversityAdmisionApplcation.dll

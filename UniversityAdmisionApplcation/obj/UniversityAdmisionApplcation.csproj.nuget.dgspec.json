@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj": {}
+    "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj": {}
   },
   "projects": {
-    "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj": {
+    "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj",
         "projectName": "UniversityAdmisionApplcation",
-        "projectPath": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj",
-        "packagesPath": "C:\\Users\\Ibra\\.nuget\\packages\\",
-        "outputPath": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\",
+        "projectPath": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\UniversityAdmisionApplcation.csproj",
+        "packagesPath": "C:\\Users\\Abdullahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ibra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdullahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,26 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

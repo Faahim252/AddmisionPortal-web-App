@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QgNGh0nZaO1CpmJG8cY4btmlQ0rrAAJTU9OeMikT0/s=",
+  "Hash": "CjleyxtCFFGGm7+kKSXuzXbWoCwGohnVhHQ10bm3IK8=",
   "Source": "UniversityAdmisionApplcation",
   "BasePath": "_content/UniversityAdmisionApplcation",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "UniversityAdmisionApplcation\\wwwroot",
       "Source": "UniversityAdmisionApplcation",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\UniversityAdmisionApplcation.styles.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\UniversityAdmisionApplcation.styles.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "UniversityAdmisionApplcation.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\UniversityAdmisionApplcation.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\bundle\\UniversityAdmisionApplcation.styles.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\UniversityAdmisionApplcation.bundle.scp.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\UniversityAdmisionApplcation.bundle.scp.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "UniversityAdmisionApplcation.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\UniversityAdmisionApplcation.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\UniversityAdmisionApplcation.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\css\\layou2.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\css\\layou2.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "css/layou2.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\layou2.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\css\\layout2.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\css\\layout2.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "css/layout2.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\layout2.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\css\\Mytheme.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\css\\Mytheme.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "css/Mytheme.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Mytheme.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\css\\site.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\favicon.ico",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -136,10 +136,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\Images\\icon.png",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\Images\\abdi.jpg",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "BasePath": "_content/UniversityAdmisionApplcation",
+      "RelativePath": "Images/abdi.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\abdi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\Images\\icon.png",
+      "SourceId": "UniversityAdmisionApplcation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "Images/icon.png",
       "AssetKind": "All",
@@ -153,10 +170,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\icon.png"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\js\\layout2.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\Images\\my.jpg",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "BasePath": "_content/UniversityAdmisionApplcation",
+      "RelativePath": "Images/my.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\my.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\js\\layout2.js",
+      "SourceId": "UniversityAdmisionApplcation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "js/layout2.js",
       "AssetKind": "All",
@@ -170,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\js\\layout2.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\js\\site.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -187,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -204,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -221,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -238,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -255,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -272,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -289,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -306,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -323,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -340,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -357,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -374,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -391,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -408,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -425,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -442,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -459,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -476,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -493,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -510,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -527,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -544,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -561,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -578,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -595,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -612,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -629,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -646,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -663,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -680,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -697,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -714,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -731,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -748,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -765,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -782,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -799,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -816,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -833,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -850,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -867,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -884,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -901,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -918,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -935,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -952,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -969,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -986,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1003,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1020,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1037,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1054,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1071,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1105,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1139,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "UniversityAdmisionApplcation",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Muumin\\new Internship\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdullahi\\Desktop\\gooni\\AddmisionPortal\\UniversityAdmisionApplcation\\wwwroot\\",
       "BasePath": "_content/UniversityAdmisionApplcation",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
